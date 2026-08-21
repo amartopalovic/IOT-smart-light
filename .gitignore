@@ -1,0 +1,10 @@
+# UI screenshots
+laptop ui.png
+Mobile UI.jpg
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
